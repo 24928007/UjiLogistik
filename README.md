@@ -1,0 +1,2 @@
+# UjiLogistik
+R Package
